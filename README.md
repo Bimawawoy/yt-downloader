@@ -25,7 +25,7 @@ This Python script allows you to download YouTube videos and audio in various fo
     ```
 3. Run the script:
     ```bash
-    python downloader.py
+    python yt.py
     ```
 4. Choose between single or batch download mode.
 5. Provide the YouTube URL(s), select your desired format and quality, and the download will begin.
